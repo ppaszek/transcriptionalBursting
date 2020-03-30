@@ -29,7 +29,3 @@ Fitting protocols were implemented in Python using R kernel, individual gene gra
 
 3)	Folder ‘core TLR with perturbation’ includes curve fitting of different characteristics in the full dataset. These involve applications of robust regression as well as comparison with the core TLR dataset for mean-variance, mean-burst-size, mean-frequency as well as burst size variance and frequency-variance. Each subfolder is organised in analogous way to ‘core TLR analysis’.
 
-### Whom to contact ###
-Questions about the code should be directed to 
-
-* Pawel Paszek [pawel.paszek@manchester.ac.uk](mailto:pawel.paszek@manchester.ac.uk)
