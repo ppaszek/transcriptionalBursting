@@ -10,7 +10,7 @@ The codes here underpin the data analysis and theoretical arguments in
 
 * “Transcriptional model fitting”- includes MATLAB codes to fit telegraph and extended models to the smFISH dataset in the paper. The folder also includes spreadsheets with smFISH count data as well as summary of models fitted in the manuscript.
 * “Analysis of scRNA-seq data” -includes MATLAB and PYTHON code for processing and analysis of scRNA-seq dataset from Shalek et al. (https://www.ncbi.nlm.nih.gov/pubmed/24919153) in terms of mean-variance relationships and bursting characteristics. The folder includes raw and processed data as well as summary of fitted relationships in a spreadsheet format.
-* Main manuscript figures (with data) in GraphPad format 
+
 
 ### Whom to contact ###
 Questions about the code (other than that written by Higham and Almohy) should be directed to 
