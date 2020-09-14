@@ -2,7 +2,7 @@
 
 The codes here underpin the data analysis and theoretical arguments in
 
->J. Bagnall, W. Rowe, N. Alachkar, J. Roberts, H. England, C. Clark, M Platt, D. A .Jackson, M. R. Muldoon and P. Paszek,*Gene-Specific Linear Trends Constrain Transcriptional Variability of the Toll-like Receptor Signaling*, Cell Systems11, 1–15, 2020
+>J. Bagnall, W. Rowe, N. Alachkar, J. Roberts, H. England, C. Clark, M Platt, D. A .Jackson, M. R. Muldoon and P. Paszek, *Gene-Specific Linear Trends Constrain Transcriptional Variability of the Toll-like Receptor Signaling*, Cell Systems 11, 1–15, 2020
 
 
 ### Outline of the files ###
